@@ -12,10 +12,10 @@ profile_img: "/assets/img/profile.webp"
 # facebook_username: facebook
 
 # External API
-# giscus_repo: "byanko55/jekyll-theme-satellite"
-# giscus_repoId: "R_kgDOJ6fqWg"
-# giscus_category: "Q&A"
-# giscus_categoryId: "DIC_kwDOJ6fqWs4Cc7p7"
+data-repo="Dan-megabyte/wampus-world-docs"
+data-repo-id="R_kgDOQZrsJQ"
+data-category="Q&A"
+data-category-id="DIC_kwDOQZrsJc4CyAvz"
 # goatcounter_code: byanko77
 # google_analytics:
 
