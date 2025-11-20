@@ -29,10 +29,11 @@ Our theme provides a hierarchical directory structure. You may create subdirecto
 
 The next step is, placing `index.md` files in both `_pages` directory and its subdirectories. The inner content of each `index.md` should be just two dashed lines as shown below:
 
-```
+````markdown
 ---
 ---
-```
+````
+
 <br></br>
 
 Or you can type the following command from each directory.
@@ -40,6 +41,7 @@ Or you can type the following command from each directory.
 ```bash
 $ echo -e "---\n---" > index.md
 ```
+
 <br></br>
 
 Your `_pages` structure now looks like this:
@@ -56,6 +58,7 @@ Your `_pages` structure now looks like this:
 |   ├── Subcatecory c
 |       └── index.md
 ```
+
 <br></br>
 
 ## Write a blog post
@@ -81,6 +84,7 @@ date: "2023-12-01"
 
 I hope you like it!
 ```
+
 <br></br>
 
 ### Setting a Post Thumbnail Image
@@ -144,7 +148,7 @@ bookmark: true
 
 Here is the structure introduced in our repo:
 
-```
+```text
 ._pages
 └── index.md
 └── markdown guide.md
