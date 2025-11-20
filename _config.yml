@@ -1,5 +1,5 @@
-title: Wampus World Attempt!
-description: "Watch our robot control the board, kill the wampus, and collect the gold!"
+title: Wumpus World Attempt!
+description: "Watch our robot control the board, kill the wumpus, and collect the gold!"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
@@ -12,10 +12,10 @@ profile_img: "/assets/img/profile.webp"
 # facebook_username: facebook
 
 # External API
-data-repo="Dan-megabyte/wampus-world-docs"
-data-repo-id="R_kgDOQZrsJQ"
-data-category="Q&A"
-data-category-id="DIC_kwDOQZrsJc4CyAvz"
+data-repo: "Dan-megabyte/wampus-world-docs"
+data-repo-id: "R_kgDOQZrsJQ"
+data-category: "Q&A"
+data-category-id: "DIC_kwDOQZrsJc4CyAvz"
 # goatcounter_code: byanko77
 # google_analytics:
 
